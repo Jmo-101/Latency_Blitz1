@@ -12,7 +12,8 @@ This repository provides insights into resolving a latency issue in Nike's URL s
 ## Problem
 Users attempting to use the application were facing higher latency than normal. For a corporation like Nike, this increased latency translates into loss of profits, as they prioritize providing users with a seamless experience on their application.
 
-<img width="300" alt="Screenshot 2023-09-29 at 9 51 44 PM" src="https://github.com/Jmo-101/Latency_Blitz1/assets/138607757/8f585755-0f33-4e96-a048-ccacdf3a2bf4">
+<img width="200" alt="Screenshot 2023-09-29 at 9 51 44 PM" src="https://github.com/Jmo-101/Latency_Blitz1/assets/138607757/8f585755-0f33-4e96-a048-ccacdf3a2bf4">
+<img width="300" alt="Screenshot 2023-09-29 at 10 11 17 PM" src="https://github.com/Jmo-101/Latency_Blitz1/assets/138607757/a8fdd266-9bd2-423e-9c49-03ba7b93b91e">
 
 
 ## Solution
