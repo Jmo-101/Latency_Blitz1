@@ -8,6 +8,9 @@ This repository provides insights into resolving a latency issue in Nike's URL s
 ## The Story
 “Nike emailed you about the URL shortener. In Nike’s email, Nike mentioned customers are complaining about the amount of time it takes to load their webpages. Nike will like us to reduce the amount of latency customers are experiencing.”
 
+To see the URL shortner application, click [here](https://github.com/Jmo-101/Web_Hook_Flask/blob/main/README.md).
+
+
 
 ## Problem
 Users attempting to use the application were facing higher latency than normal. For a corporation like Nike, this increased latency translates into loss of profits, as they prioritize providing users with a seamless experience on their application.
